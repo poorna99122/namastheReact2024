@@ -1,0 +1,26 @@
+TALK IS CHEAP SHOW ME THE CODE :- 
+    Now in this session we are going to design our food ordering app first 
+
+--------------------------------------------------------------------------
+    What components our app can have ?
+        Header 
+            -Logo 
+            -Nav Item (Menu)
+
+        Body 
+            -Search
+            -Restro Container
+                -Restro Cards (Restro Cards)
+        Footer 
+            -Copyrights 
+            -Links 
+            -Address 
+            -Contact Info
+    So this is the best way to plan an APP 
+
+    --------------------------------------------------------------------------
+
+Now we are gonna create top level component called as Applayout component  ...
+    what is a functional component -> its nothing but a JS function 
+    What is an app component ? -> its a function that returns JSX code 
+    
